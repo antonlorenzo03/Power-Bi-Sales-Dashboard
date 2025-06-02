@@ -8,6 +8,8 @@ A Power BI dashboard project showcasing key sales insights using sample data. De
 ## Features
 
 ## Tools Used
+- Power BI Desktop
+- DAX _(calculated measures and conditional formatting)_
 
 ## Live Report
 
