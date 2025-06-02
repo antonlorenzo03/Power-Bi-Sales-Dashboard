@@ -21,5 +21,5 @@ This sample sales dataset from Kaggle contains transactions from Jan 2003 - May 
 - DAX _(calculated measures and conditional formatting)_
 
 ## Live Report
-[View on Power BI Service](#) <!-- Replace with actual link once published -->
+[View on Power BI Service]([#](https://app.powerbi.com/view?r=eyJrIjoiNzA4N2ZlYjAtNDhkZi00ZGQyLWFmMmMtNjY5ZTY4YWI4ZWFhIiwidCI6ImYzNGEzNWJkLWE2NWQtNDYwNS1iMGZhLWQyNTcxZjgzMWY1ZSIsImMiOjEwfQ%3D%3D&pageName=0b08dddc125ca2789111))
 
