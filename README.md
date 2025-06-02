@@ -1,2 +1,15 @@
 # Power-Bi-Sales-Dashboard
-Interactive Power BI Sales Dashboard showcasing key metrics and trends for sales performance analysis
+A Power BI dashboard project showcasing key sales insights using sample data. Designed to highlight business performance through clear visualizations and KPIs.
+
+## About the Dashboard
+
+## Dataset Description
+
+## Features
+
+## Tools Used
+
+## Live Report
+
+## Sample Dataset Reference
+https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download
