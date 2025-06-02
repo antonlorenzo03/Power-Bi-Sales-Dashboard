@@ -9,11 +9,12 @@ This sample sales dataset from Kaggle contains transactions from Jan 2003 - May 
 [Kaggle: Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
 
 ## Features
-- Regional sales performance trend with map visual
+- Regional sales performance with interactive map
+- Sales trend by territory
 - Top customers sorted by total sales
 - Product line distribution with contribution to sales
   - Includes a constant line at the 80% mark to highlight top-contributing product lines
-- Slicers for year, quarter, month, and territory
+- Filters panel for custom exploration
 
 ## Tools Used
 - Power BI Desktop
