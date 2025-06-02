@@ -6,8 +6,7 @@ A Power BI dashboard project showcasing key sales insights using sample data. De
 ## Dataset Description
 This sample sales dataset from Kaggle contains transactions from Jan 2003 - May 2005, simulating global distribution data from a hypothetical retail company. Included in the dataset are order, customer, and product details.
 
-_link to kaggle dataset can be found below_
-### Sample Dataset Reference
+_Kaggle Dataset Reference_
 [Kaggle: Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
 
 ## Features
