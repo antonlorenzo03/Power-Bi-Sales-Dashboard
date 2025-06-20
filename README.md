@@ -5,7 +5,7 @@ A Power BI dashboard project showcasing key sales insights using sample data. De
 [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTIwMjNiODAtMGRmOS00NzNmLTg5ZDAtYzY2NTVjNWYxZDkyIiwidCI6ImYzNGEzNWJkLWE2NWQtNDYwNS1iMGZhLWQyNTcxZjgzMWY1ZSIsImMiOjEwfQ%3D%3D&pageName=0b08dddc125ca2789111)
 
 ## Dataset Description
-This sample sales dataset from Kaggle contains transactions from Jan 2003 - May 2005, simulating global distribution data from a hypothetical retail company. Included in the dataset are order, customer, and product details.
+This sample sales dataset from Kaggle contains global distribution data from a hypothetical retail company from January 2003 to May 2005. This company distributes to four main territories: EMEA, America, APAC, and Japan, with product lines focused on automotive and commercial/ mass transit vehicles. 
 
 ### *Kaggle Dataset Reference*
 [Kaggle: Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
