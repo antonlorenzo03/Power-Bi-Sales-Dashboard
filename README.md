@@ -1,4 +1,4 @@
-# Power-Bi-Sales-Dashboard
+# Sales Dashboard (Power BI) & Analytics Report 
 A Power BI dashboard project showcasing key sales insights using sample data. Designed to highlight business performance through clear visualizations and performance metrics.
 
 ## Live Report
