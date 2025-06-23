@@ -2,7 +2,7 @@
 Beyond demonstrating technical proficiency in creating purposeful visualizations through a Power BI dashboard, I wanted to show how I would approach analyzing sample sales data through visualization techniques and turn them into actionable, data-driven insights.
 
 ## Project Components
-- [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTIwMjNiODAtMGRmOS00NzNmLTg5ZDAtYzY2NTVjNWYxZDkyIiwidCI6ImYzNGEzNWJkLWE2NWQtNDYwNS1iMGZhLWQyNTcxZjgzMWY1ZSIsImMiOjEwfQ%3D%3D&pageName=0b08dddc125ca2789111)
+- [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc0YmU5Y2YtYzFjZC00YmVjLWFiNmEtODZkOTc1NzhiNzI5IiwidCI6ImYzNGEzNWJkLWE2NWQtNDYwNS1iMGZhLWQyNTcxZjgzMWY1ZSIsImMiOjEwfQ%3D%3D&pageName=11fa34c1c28edbfe9ae6)
 - [View Sales Analytics Report](https://drive.google.com/file/d/1bB6ENSY0k5XWyleP6v6EV8wOMtwgtgru/view?usp=sharing)
 
 ## Dataset Description
