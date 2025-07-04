@@ -8,6 +8,8 @@ Beyond demonstrating technical proficiency in creating purposeful visualizations
 ## Dataset Description
 This sample sales dataset from Kaggle contains global distribution data from a hypothetical retail company from January 2003 to May 2005. This company distributes to four main territories: EMEA, America, APAC, and Japan, with product lines focused on automotive and commercial/ mass transit vehicles. 
 
+**Reference:** [Kaggle - Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
+
 ## What This Dashboard Solves
 - Overview of YTD sales and orders
 - Comparison of YTD sales with company KPI (hypothetical: 10% annual sales growth by EOY)
@@ -22,6 +24,5 @@ This sample sales dataset from Kaggle contains global distribution data from a h
 - DAX - _calculated measures and conditional formatting for visualizations_
 - Canva - _creating analytics report presentation_
 
-#### *Kaggle Dataset Reference*
-[View Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
+
 
