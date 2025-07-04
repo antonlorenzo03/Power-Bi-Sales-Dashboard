@@ -17,10 +17,10 @@ This sample sales dataset from Kaggle contains global distribution data from a h
 - Order status and product line distribution breakdown by year
 
 ## Tools Used
-- Power BI Desktop -- _for creating the interactive dashboard, filters, and slicers_
-- Power BI Service -- _for publishing dashboard online_
-- DAX -- _for calculated measures and conditional formatting for visualizations_
-- Canva -- _for creating analytics report presentation_
+- Power BI Desktop - _creating the interactive dashboard, filters, and slicers_
+- Power BI Service - _publishing dashboard online_
+- DAX - _calculated measures and conditional formatting for visualizations_
+- Canva - _creating analytics report presentation_
 
 #### *Kaggle Dataset Reference*
 [View Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)
